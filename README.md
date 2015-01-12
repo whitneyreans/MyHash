@@ -4,7 +4,7 @@ MyHash is a Ruby class that stores and fetches key/value pairs.
 
 ## Requirements
 
-You just need Ruby, dude.
+You just need Ruby, dude. You will need to install the rspec gem if you'd like to run the specs.
 
 ## Credits
 
